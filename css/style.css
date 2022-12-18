@@ -696,3 +696,8 @@
 .once-heading {
   width: 70rem;
 }
+
+.eating-well {
+  text-align: center;
+  justify-self: center;
+}
